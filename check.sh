@@ -13,3 +13,6 @@ df -h
 echo "Mysql Runing Status"
 pgrep mysql
 
+
+new file 
+
